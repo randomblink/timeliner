@@ -35,7 +35,7 @@
                 // event marker
                 speed: options['speed'] || 4, // value: numeric, defalut to 4; a
                 // multiplier applied to the base speed that sets
-                // the speed at which an event's conents are
+                // the speed at which an event's contents are
                 // displayed and hidden
                 fontOpen: options['fontOpen'] || '1.2em', // value: any valid CSS
                 // font-size value, defaults to 1em; sets the font
